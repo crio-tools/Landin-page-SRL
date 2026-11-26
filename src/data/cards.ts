@@ -28,7 +28,7 @@ export const gridSections: GridSection[] = [
         links: [
           {
             label: 'Overall Placement Report',
-            url: 'https://drive.google.com/file/d/1vRcQjTHPHpYoZnfjF8fkhg6PIQJqVyHd/view?usp=sharing',
+            url: 'https://drive.google.com/file/d/1skSI0tmXzqDa4DUwDF2_4at6E0SiER-q/view?usp=sharing',
           },
           {
             label: 'Quarterly Placement Report',
